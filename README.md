@@ -39,7 +39,7 @@ npm install
 Execute a aplicação:
 
 ```bash
-node src/app.js
+npm start
 ```
 
 Após iniciar o servidor, acesse:
@@ -57,6 +57,7 @@ GET /
 ```
 
 Exibe a página inicial da aplicação.
+
 
 ### Integrantes
 
@@ -78,3 +79,7 @@ aplicacao-devops/
 ├── package-lock.json
 └── README.md
 ```
+## Erro de commit 
+
+"feat: cria pagina inicial HTML"
+Esse commit foi feito pelo usuário mscarpenter, ele não faz parte do projeto o git do usuário estava conectado no computador utilizado. 
