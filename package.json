@@ -4,6 +4,7 @@
   "description": "[# aplicacao_devops](https://claude.ai/share/6c0c7383-7851-494f-96cd-0ab961ed51ab)",
   "main": "index.js",
   "scripts": {
+    "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
